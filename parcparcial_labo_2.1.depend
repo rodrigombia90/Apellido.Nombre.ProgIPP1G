@@ -1,0 +1,187 @@
+# depslib dependency file v1.0
+1606828445 source:c:\utn\labo 1\codeblock\parcparcial_labo_2.1\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+
+1606260313 source:c:\utn\labo 1\codeblock\parcparcial_labo_2.1\input.c
+	"input.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1606848947 source:c:\utn\labo 1\codeblock\parcparcial_labo_2.1\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"mascotas.h"
+	"input.h"
+	"tipo.h"
+	"color.h"
+	"dataAnimales.h"
+	"servicio.h"
+	"trabajo.h"
+
+1606259735 source:c:\utn\labo 1\codeblock\parcparcial_labo_2.1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input.h"
+	"servicio.h"
+
+1606828375 source:c:\utn\labo 1\codeblock\parcparcial_labo_2.1\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1606842358 source:c:\utn\labo 1\codeblock\parcparcial_labo_2.1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascotas.h"
+	"trabajo.h"
+	"servicio.h"
+	"input.h"
+
+1606843447 source:c:\utn\labo 1\codeblock\parcparcial_labo_2.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"mascotas.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1606328420 c:\utn\labo 1\codeblock\parcparcial_labo_2.1\mascotas.h
+	"tipo.h"
+	"color.h"
+	"cliente.h"
+
+1606328614 c:\utn\labo 1\codeblock\parcparcial_labo_2.1\tipo.h
+
+1606250983 c:\utn\labo 1\codeblock\parcparcial_labo_2.1\color.h
+
+1606259891 c:\utn\labo 1\codeblock\parcparcial_labo_2.1\servicio.h
+
+1606841402 c:\utn\labo 1\codeblock\parcparcial_labo_2.1\trabajo.h
+	"fecha.h"
+	"servicio.h"
+	"cliente.h"
+
+1606248926 source:c:\utn\labo 1\codeblock\parcparcial_labo_2.1\fecha.c
+
+1606249016 c:\utn\labo 1\codeblock\parcparcial_labo_2.1\fecha.h
+
+1606330937 c:\utn\labo 1\codeblock\parcparcial_labo_2.1\input.h
+
+1606317438 c:\utn\labo 1\codeblock\parcparcial_labo_2.1\dataanimales.h
+
+1606842299 c:\utn\labo 1\codeblock\parcparcial_labo_2.1\cliente.h
+
+1606850859 source:c:\utn\labo 1\codeblock\parcparcial_labo_2.1\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"mascotas.h"
+
+1606850859 source:c:\users\alumno_invitado\desktop\tiene cliente\parcparcial_labo_2.1 muestra cliente\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"mascotas.h"
+
+1606842299 c:\users\alumno_invitado\desktop\tiene cliente\parcparcial_labo_2.1 muestra cliente\cliente.h
+
+1606328420 c:\users\alumno_invitado\desktop\tiene cliente\parcparcial_labo_2.1 muestra cliente\mascotas.h
+	"tipo.h"
+	"color.h"
+	"cliente.h"
+
+1606328614 c:\users\alumno_invitado\desktop\tiene cliente\parcparcial_labo_2.1 muestra cliente\tipo.h
+
+1606250983 c:\users\alumno_invitado\desktop\tiene cliente\parcparcial_labo_2.1 muestra cliente\color.h
+
+1606828445 source:c:\users\alumno_invitado\desktop\tiene cliente\parcparcial_labo_2.1 muestra cliente\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+
+1606248926 source:c:\users\alumno_invitado\desktop\tiene cliente\parcparcial_labo_2.1 muestra cliente\fecha.c
+
+1606260313 source:c:\users\alumno_invitado\desktop\tiene cliente\parcparcial_labo_2.1 muestra cliente\input.c
+	"input.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1606330937 c:\users\alumno_invitado\desktop\tiene cliente\parcparcial_labo_2.1 muestra cliente\input.h
+
+1606843447 source:c:\users\alumno_invitado\desktop\tiene cliente\parcparcial_labo_2.1 muestra cliente\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"mascotas.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1606259891 c:\users\alumno_invitado\desktop\tiene cliente\parcparcial_labo_2.1 muestra cliente\servicio.h
+
+1606841402 c:\users\alumno_invitado\desktop\tiene cliente\parcparcial_labo_2.1 muestra cliente\trabajo.h
+	"fecha.h"
+	"servicio.h"
+	"cliente.h"
+
+1606249016 c:\users\alumno_invitado\desktop\tiene cliente\parcparcial_labo_2.1 muestra cliente\fecha.h
+
+1606848947 source:c:\users\alumno_invitado\desktop\tiene cliente\parcparcial_labo_2.1 muestra cliente\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"mascotas.h"
+	"input.h"
+	"tipo.h"
+	"color.h"
+	"dataAnimales.h"
+	"servicio.h"
+	"trabajo.h"
+
+1606317438 c:\users\alumno_invitado\desktop\tiene cliente\parcparcial_labo_2.1 muestra cliente\dataanimales.h
+
+1606259735 source:c:\users\alumno_invitado\desktop\tiene cliente\parcparcial_labo_2.1 muestra cliente\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input.h"
+	"servicio.h"
+
+1606828375 source:c:\users\alumno_invitado\desktop\tiene cliente\parcparcial_labo_2.1 muestra cliente\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1606842358 source:c:\users\alumno_invitado\desktop\tiene cliente\parcparcial_labo_2.1 muestra cliente\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascotas.h"
+	"trabajo.h"
+	"servicio.h"
+	"input.h"
+
